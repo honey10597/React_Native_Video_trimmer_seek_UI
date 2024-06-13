@@ -8,7 +8,7 @@ import Animated, { runOnJS, useAnimatedGestureHandler, useAnimatedReaction, useA
 const MOVE_WIDTH = -10
 const MOVE_SPEED = 5
 
-const ZZZ = () => {
+const SeekUI = () => {
 
     // const [isPlaying, setIsPlaying] = useState(false)
 
@@ -207,4 +207,4 @@ const styles = StyleSheet.create({
     }
 })
 
-export default ZZZ;
+export default SeekUI;
